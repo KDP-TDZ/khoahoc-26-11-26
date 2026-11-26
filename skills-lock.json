@@ -1,0 +1,197 @@
+{
+  "version": 2,
+  "skills": {
+    "baoyu-article-illustrator": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-article-illustrator/SKILL.md",
+      "computedHash": "c4074f730816a79f0233e734e45ec8602f09551325f7f0272694d06c38241f2f"
+    },
+    "baoyu-comic": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-comic/SKILL.md",
+      "computedHash": "7fc1e27ac52d0ec83c214884dc9b211b9d236de7c7d025013c992d2240850a78"
+    },
+    "baoyu-compress-image": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-compress-image/SKILL.md",
+      "computedHash": "4a479c1d7209c5b01717e90fb3d7961293b5fa408f2c7b6988d16ad1d66c2a2a"
+    },
+    "baoyu-cover-image": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-cover-image/SKILL.md",
+      "computedHash": "e5808121a0484ad7c07ad5a61ed1bc3b5081ae0b55cee6f5a777840aa754e4d2"
+    },
+    "baoyu-danger-gemini-web": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-danger-gemini-web/SKILL.md",
+      "computedHash": "8100d679de77e9b7513dd4758044b8b5e210f2e0eef30043a575e81f39f45f48"
+    },
+    "baoyu-danger-x-to-markdown": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-danger-x-to-markdown/SKILL.md",
+      "computedHash": "03de3c2be5254dbeec8afa4a5b38d6eda9d26596aa67553d937439fc94a0c023"
+    },
+    "baoyu-diagram": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-diagram/SKILL.md",
+      "computedHash": "2603a218217d175fa2b530c79eaa66dbb1467ee2a51015d88561247e67a5ee65"
+    },
+    "baoyu-electron-extract": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-electron-extract/SKILL.md",
+      "computedHash": "c3856e6657a6cbef0e3b7dece1fe099a80f1439e89e7e2353877400580a00276"
+    },
+    "baoyu-format-markdown": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-format-markdown/SKILL.md",
+      "computedHash": "e1819351cdb862a6387e0a98abba63526cac23ead71246f4fc0f21a941763cbc"
+    },
+    "baoyu-image-gen": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-image-gen/SKILL.md",
+      "computedHash": "b80f9135cb85939d34599d0dfa28ee58c229cd3e7b61ccc6cc916856c9acb551"
+    },
+    "baoyu-infographic": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-infographic/SKILL.md",
+      "computedHash": "06e741635ae2f5db7133b69eeea0af1583436e2be364e6e6afc8b20dc9f74ce4"
+    },
+    "baoyu-markdown-to-html": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-markdown-to-html/SKILL.md",
+      "computedHash": "610092cf2db41b89574827d50e131bb261015e946086d643ffbf1e24104dc077"
+    },
+    "baoyu-podcast-summary": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-podcast-summary/SKILL.md",
+      "computedHash": "6860ebaae839b471e991eeedade70850a1995769861381bf7f2cb14a47f361ef"
+    },
+    "baoyu-post-to-wechat": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-post-to-wechat/SKILL.md",
+      "computedHash": "e5d8c2ec125e24fc0f1618271e5987cf465cd733dcefee6c7f2de31bdfdc5019"
+    },
+    "baoyu-post-to-weibo": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-post-to-weibo/SKILL.md",
+      "computedHash": "43ffe8d1cea8124a8eb68ae859879a576879662976b87865bd32fc109071d079"
+    },
+    "baoyu-post-to-x": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-post-to-x/SKILL.md",
+      "computedHash": "8a84fb26b027c0b7de8154da19b687fcb9f736cd62b54eb4511e333a61223508"
+    },
+    "baoyu-slide-deck": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-slide-deck/SKILL.md",
+      "computedHash": "42ab3b7e93f77ed31de327865447115328afd85f699c202627e37b437f2c93ae"
+    },
+    "baoyu-translate": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-translate/SKILL.md",
+      "computedHash": "3d311b43d8dfc5da0c0af49cc5fdf94d302e683bc55bb40078479d1b5ea1eec6"
+    },
+    "baoyu-url-to-markdown": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-url-to-markdown/SKILL.md",
+      "computedHash": "c5652ee12b857f7efa6165dc20668b7bc567c57b722fbc0eaf2fcfeb8a995644"
+    },
+    "baoyu-wechat-summary": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-wechat-summary/SKILL.md",
+      "computedHash": "20744a82e852b0c0fd1432f60dba705f911a6a19ed575d64a38bea7ca2758d2d"
+    },
+    "baoyu-xhs-images": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-xhs-images/SKILL.md",
+      "computedHash": "b066d173557ae62f90708c1898dd6c7e4a2b612e4dfbc91fae6d44b5dc3dd9ec"
+    },
+    "baoyu-youtube-transcript": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": "skills/baoyu-youtube-transcript/SKILL.md",
+      "computedHash": "91f17e97ca2b82a6a34fc9fd30710121d9f93907982af75f9b8eef244af620e0"
+    },
+    "design-taste-frontend": {
+      "source": ".\\taste-skill-main",
+      "sourceUrl": ".\\taste-skill-main",
+      "commit": "d1a2bb41d927083ac7118f60cfc9cdf711810ea0",
+      "sourceType": "git",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "b10eab0a9684cd09cf34c31ef04a3bf530a5f4404422f9c520d42372d670c7fc"
+    },
+    "release-skills": {
+      "source": ".\\baoyu-skills-main",
+      "sourceUrl": ".\\baoyu-skills-main",
+      "commit": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "sourceType": "git",
+      "skillPath": ".claude/skills/release-skills/SKILL.md",
+      "computedHash": "e412ff2cda2ef6cd7ea9827d33e80911d19018bd317ca35b01b0703fb1d2b2e8"
+    }
+  }
+}
